@@ -1,0 +1,2 @@
+export const RECEIVE_GOODS = 'RECEIVE_GOODS';
+export const RECEIVE_INFO = 'RECEIVE_INFO';

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Apple MacBook Air 13",
+    "picture": "/media/image/apple.jpg",
+    "description": "Экран 13.3 (1440x900) WXGA+ LED, глянцевый / Intel Core i5 (1.6 - 2.7 ГГц) / RAM 8 ГБ / SSD 128 ГБ / Intel HD Graphics 6000 / без ОД / Wi-Fi / Bluetooth / веб-камера / OS X El Capitan / 1.35 кг",
+    "price": 26000
+  },
+  {
+    "id": 2,
+    "title": "HP 250 G5 (Y8C02ES) Black",
+    "picture": "/media/image/HP.jpg",
+    "description": "Экран 15.6 SVA (1920x1080) Full HD, глянцевый с антибликовым покрытием / Intel Core i3-5005U (2.0 ГГц) / RAM 8 ГБ / SSD 128 ГБ / AMD Radeon R5 M430, 2 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / DOS / 1.96 кг / черный",
+    "price": 12500
+  },
+  {
+    "id": 3,
+    "title": "Asus Vivobook X556UQ",
+    "picture": "/media/image/asus.jpg",
+    "description": "Экран 15.6 (1920x1080) Full HD, матовый / Intel Core i5-7200U (2.5 - 3.1 ГГц) / RAM 6 ГБ / SSD 256 ГБ / nVidia GeForce 940MX, 2 ГБ / DVD Super Multi / LAN / Wi-Fi / Bluetooth / веб-камера / Windows 10 / 2.3 кг / темно-коричневый",
+    "price": 21000
+  },
+  {
+    "id": 4,
+    "title": "Lenovo IdeaPad 310-15IAP",
+    "picture": "/media/image/lenovo.jpg",
+    "description": "Экран 15.6 (1920x1080) Full HD, глянцевый / Intel Pentium N4200 (1.1 - 2.5 ГГц) / RAM 4 ГБ / SSD 256 ГБ / Intel HD Graphics 505 / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / DOS / 2.2 кг / серебристый",
+    "price": 8500
+  },
+  {
+    "id": 5,
+    "title": "Acer Aspire E5-575-374Q",
+    "picture": "/media/image/acer.jpg",
+    "description": "Экран 15.6 TN+film (1920x1080) Full HD, матовый / Intel Core i3-7100U (2.4 ГГц) / RAM 8 ГБ / SSD 256 ГБ / Intel HD Graphics 620 / DVD+/-RW / LAN / Wi-Fi / Bluetooth / веб-камера / Linux / 2.4 кг / черный",
+    "price": 14000
+  }
+]
