@@ -1,6 +1,6 @@
-# Test task
+# Test task for Ossystem
 
-# npm run build
-# npm run start
+run build: npm run build
+run application: npm run start
 
-change user /front/src/reducers/user-role
+change user: /front/src/reducers/user-role
